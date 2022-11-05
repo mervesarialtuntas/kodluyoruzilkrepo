@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+<<<<<<< HEAD
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -19,3 +20,6 @@ Pull request kabul edilir. Büyük değişiklikler için, lütfen önce neyi de�
 
 ## License
 git clone https://choosealicense.com/licenses/mit/
+=======
+www.patika.dev
+>>>>>>> 16fadfed7e25ea3208fea55d8f4298cc74e7420a
